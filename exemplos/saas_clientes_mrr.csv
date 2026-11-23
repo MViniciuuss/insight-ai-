@@ -1,0 +1,19 @@
+Cliente,Segmento,Plano,MRR_Mensal,MesesAtivo,TicketsSuporte,NPS,DataContratacao,Status,MotivoChurn
+TechCorp Brasil,Enterprise,Empresarial,4800.00,28,4,9,2023-03-10,Ativo,
+Nexus Soluções,Mid-Market,Profissional,1850.00,14,8,7,2024-05-18,Ativo,
+InovaLog Logística,Mid-Market,Profissional,1850.00,9,19,4,2024-10-05,Cancelado,Preço Alto
+Alpha Finanças,Enterprise,Empresarial,6200.00,36,2,10,2022-07-22,Ativo,
+Studio Criativo,SMB,Starter,490.00,6,12,5,2025-01-14,Cancelado,Falta de Recursos
+AgroTech Centro,Mid-Market,Profissional,2100.00,18,5,8,2024-01-30,Ativo,
+Rede Saúde Mais,Enterprise,Empresarial,5400.00,22,6,9,2023-09-12,Ativo,
+FastFood Express,SMB,Starter,490.00,11,3,8,2024-08-04,Ativo,
+MegaDistribuidora,Enterprise,Custom,8900.00,42,7,10,2022-01-15,Ativo,
+Educação Futuro,Mid-Market,Profissional,1850.00,5,15,3,2025-02-01,Cancelado,Dificuldade de Uso
+Construtora Polo,Enterprise,Empresarial,4800.00,16,4,8,2024-03-25,Ativo,
+PetCare Clínicas,SMB,Starter,490.00,8,2,9,2024-11-10,Ativo,
+OmniStore Varejo,Mid-Market,Profissional,2400.00,12,11,6,2024-07-08,Ativo,
+Vanguard Seguros,Enterprise,Custom,7500.00,31,3,10,2022-12-05,Ativo,
+StartUp Flow,SMB,Starter,490.00,3,14,4,2025-04-12,Cancelado,Suporte Lento
+Global Imóveis,Mid-Market,Profissional,1850.00,20,6,8,2023-11-19,Ativo,
+BioPharma Labs,Enterprise,Empresarial,5200.00,25,5,9,2023-06-14,Ativo,
+SmartLogistics,SMB,Starter,490.00,15,1,9,2024-04-02,Ativo,

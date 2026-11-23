@@ -1,0 +1,26 @@
+Data,PedidoID,Cliente,Regiao,Estado,Categoria,Produto,Quantidade,PrecoUnitario,DescontoPercent,Faturamento,Lucro,Status
+2025-01-05,PED-1001,Lucas Silva,Sudeste,SP,Eletrônicos,Notebook Gamer Pro,2,4500.00,5,8550.00,1710.00,Entregue
+2025-01-07,PED-1002,Mariana Costa,Sul,PR,Móveis,Cadeira Ergonômica,4,650.00,10,2340.00,585.00,Entregue
+2025-01-10,PED-1003,Carlos Mendes,Nordeste,BA,Informática,Monitor Ultrawide 34,1,2800.00,0,2800.00,700.00,Entregue
+2025-01-12,PED-1004,Beatriz Lima,Sudeste,RJ,Acessórios,Teclado Mecânico RGB,3,320.00,15,816.00,244.80,Entregue
+2025-01-15,PED-1005,Rodrigo Souza,Centro-Oeste,GO,Eletrônicos,Smartphone Ultra 5G,2,3900.00,8,7176.00,1435.20,Entregue
+2025-01-18,PED-1006,Fernanda Rocha,Sul,SC,Móveis,Mesa Elevatória Elétrica,1,1950.00,5,1852.50,463.12,Entregue
+2025-01-20,PED-1007,Gustavo Pires,Sudeste,MG,Informática,SSD NVMe 2TB,5,520.00,12,2288.00,686.40,Entregue
+2025-01-23,PED-1008,Juliana Santos,Nordeste,PE,Acessórios,Headset Wireless 7.1,2,450.00,5,855.00,256.50,Entregue
+2025-01-26,PED-1009,Marcelo Oliveira,Norte,AM,Eletrônicos,Tablet Pro 11,1,3100.00,0,3100.00,620.00,Cancelado
+2025-01-29,PED-1010,Aline Guimarães,Sudeste,SP,Informática,Placa de Vídeo RTX 4070,1,5400.00,7,5022.00,1004.40,Entregue
+2025-02-02,PED-1011,Diego Barreto,Sul,RS,Móveis,Cadeira Diretor Mesh,2,820.00,10,1476.00,369.00,Entregue
+2025-02-05,PED-1012,Camila Martins,Sudeste,RJ,Acessórios,Mouse Ergonômico,6,180.00,20,864.00,259.20,Entregue
+2025-02-08,PED-1013,Rafael Nogueira,Centro-Oeste,DF,Eletrônicos,Notebook Gamer Pro,1,4500.00,0,4500.00,900.00,Entregue
+2025-02-12,PED-1014,Larissa Freitas,Nordeste,CE,Informática,Monitor Curvo 27,2,1450.00,10,2610.00,652.50,Entregue
+2025-02-15,PED-1015,Bruno Farias,Sudeste,SP,Móveis,Estante Modular Aço,3,480.00,5,1368.00,342.00,Entregue
+2025-02-18,PED-1016,Tatiana Ribeiro,Sul,PR,Eletrônicos,Smartphone Ultra 5G,1,3900.00,5,3705.00,741.00,Entregue
+2025-02-22,PED-1017,Vinicius Castro,Nordeste,RN,Acessórios,Suporte Articulado,4,190.00,15,646.00,193.80,Entregue
+2025-02-25,PED-1018,Patrícia Gomes,Sudeste,ES,Informática,SSD NVMe 1TB,8,310.00,18,2033.60,610.08,Entregue
+2025-03-01,PED-1019,Eduardo Xavier,Sul,SC,Eletrônicos,Console NextGen,2,3600.00,5,6840.00,1368.00,Entregue
+2025-03-05,PED-1020,Helena Monteiro,Sudeste,SP,Informática,Monitor Ultrawide 34,3,2800.00,10,7560.00,1890.00,Entregue
+2025-03-08,PED-1021,Felipe Ramos,Norte,PA,Móveis,Mesa Elevatória Elétrica,2,1950.00,8,3588.00,897.00,Entregue
+2025-03-12,PED-1022,Renata Cardoso,Centro-Oeste,MT,Eletrônicos,Tablet Pro 11,2,3100.00,10,5580.00,1116.00,Entregue
+2025-03-15,PED-1023,Thiago Alencar,Nordeste,BA,Acessórios,Headset Wireless 7.1,5,450.00,15,1912.50,573.75,Entregue
+2025-03-18,PED-1024,Clara Fonseca,Sudeste,MG,Móveis,Cadeira Ergonômica,3,650.00,5,1852.50,463.12,Entregue
+2025-03-22,PED-1025,Gabriel Macedo,Sul,RS,Informática,Placa de Vídeo RTX 4070,2,5400.00,10,9720.00,1944.00,Entregue
